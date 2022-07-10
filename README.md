@@ -1,5 +1,9 @@
 # testingWebApp
 
+## Deploying in Azure
+
+Deployed in Azure
+
 ## For Personal Use Only
 
 Using it for personal reasons
