@@ -1,5 +1,9 @@
 # testingWebApp
 
+## For Personal Use Only
+
+Using it for personal reasons
+
 ## Build Setup
 
 ```bash
